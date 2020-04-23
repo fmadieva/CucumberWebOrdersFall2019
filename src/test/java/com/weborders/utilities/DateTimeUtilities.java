@@ -1,4 +1,4 @@
-package com.weborders.utilities.utilities;
+package com.weborders.utilities;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
